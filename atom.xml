@@ -6,7 +6,7 @@
   <link href="https://nghienca.com/atom.xml" rel="self"/>
   
   <link href="https://nghienca.com/"/>
-  <updated>2021-03-04T11:07:19.472Z</updated>
+  <updated>2021-03-04T12:50:51.843Z</updated>
   <id>https://nghienca.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://nghienca.com/5-Loai-Cay-Thuy-Sinh-Dep-Gia-Re-Ban-Nen-Biet-20210304.html"/>
     <id>https://nghienca.com/5-Loai-Cay-Thuy-Sinh-Dep-Gia-Re-Ban-Nen-Biet-20210304.html</id>
     <published>2021-03-04T09:12:20.916Z</published>
-    <updated>2021-03-04T11:07:19.472Z</updated>
+    <updated>2021-03-04T12:50:51.843Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;article-summary&quot;&gt;
@@ -32,6 +32,10 @@
     
     
     
+    <category term="Cá cảnh" scheme="https://nghienca.com/categories/Ca-canh/"/>
+    
+    
+    <category term="Cây thủy sinh" scheme="https://nghienca.com/tags/Cay-thuy-sinh/"/>
     
   </entry>
   
