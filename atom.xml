@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Cá Cảnh</title>
+  <icon>https://nghienca.com/icon.png</icon>
+  
+  <link href="https://nghienca.com/atom.xml" rel="self"/>
+  
+  <link href="https://nghienca.com/"/>
+  <updated>2021-03-04T11:07:19.472Z</updated>
+  <id>https://nghienca.com/</id>
+  
+  <author>
+    <name>Nghiện Cá</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>5 Loại Cây Thủy Sinh Đẹp, Giá Rẻ Bạn Nên Biết</title>
+    <link href="https://nghienca.com/5-Loai-Cay-Thuy-Sinh-Dep-Gia-Re-Ban-Nen-Biet-20210304.html"/>
+    <id>https://nghienca.com/5-Loai-Cay-Thuy-Sinh-Dep-Gia-Re-Ban-Nen-Biet-20210304.html</id>
+    <published>2021-03-04T09:12:20.916Z</published>
+    <updated>2021-03-04T11:07:19.472Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;article-summary&quot;&gt;
+    &lt;div class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;rte&quot;&gt;
+            &lt;p style=&quot;text-align: justify;&quot;&gt;Cây thủy sinh&amp;nbsp;là thực vật thích ứng trong môi trường nước ngọt. Chúng có thể sống hoàn toàn trong nước, một phần trong nước hoặc trong môi trường ẩm ướt như bùn. Cây thủy sinh thường được trồng bên trong hồ, các bể cá hoặc để bàn, trong bể thủy sinh nhằm làm cảnh hoặc tạo ra lớp thảm thực vật giúp các động vật thủy sinh phát triển tốt nhất.&lt;/p&gt;
+            &lt;p&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
